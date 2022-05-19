@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(75, 75, 75);
+}
+
+.Empty {
+    background-color: rgb(75, 75, 75);
+    height: 150px;
+}
+
+
+.Usedcol {
+    color: white;
+    text-align: center;
+    height: 380px;
+}
+
+.Emptyusedcol {
+    background-color: rgb(75, 75, 75);
+    height: 380px;
+}
+
+.pfp {
+    padding: 13px;
+    height: 370px;
+    width: 370px;
+    
+}
+
+
+

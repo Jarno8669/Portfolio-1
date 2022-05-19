@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(75, 75, 75);
+}
+
+.Empty {
+    background-color: rgb(75, 75, 75);
+    height: 120px;
+}
+
+
+.Usedcol {
+    color: white;
+    text-align: center;
+    height: 600px;
+}
+
+.Emptyusedcol {
+    background-color: rgb(75, 75, 75);
+    height: 600px;
+}
+
+h5 {
+    text-align: center;
+}
+
+form {
+    width: 500px;
+    display: inline-block;
+    text-align: center;
+}
